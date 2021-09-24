@@ -366,7 +366,7 @@ mysql-connector-java-8.0.26
 Instalar o plug-in E(fx)clipse (>= 3.4.1 version)
 ```
 
-# 📲 Contact
+# 📲 Contato
 
 Fabio Luis Guia da Conceição
 
